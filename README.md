@@ -1,8 +1,6 @@
-#### Idea
+<img src = "accordionimage.PNG">
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
-
-![](./idea.png);
+## You can use react-icon with direction that I have written below !!!
 
 #### React Icons
 
